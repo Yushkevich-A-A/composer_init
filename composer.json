@@ -1,0 +1,19 @@
+{
+    "name": "yushkevich.a.a/init-composer",
+    "description": "composer init",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YushkevichAA\\InitComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yushkevich-A-A",
+            "email": "Mortifer1993@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
